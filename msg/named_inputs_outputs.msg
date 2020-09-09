@@ -1,0 +1,2 @@
+robotlab_msgs/named_input_output[] digital_inputs
+robotlab_msgs/named_input_output[] digital_outputs
